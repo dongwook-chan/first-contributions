@@ -262,6 +262,7 @@ Ayush Gaud
 -[Jessica-ovabor](https://github.com/Jessica-ovabor)
 - [Sam]
 - [Daniel Fraga](https://github.com/Danfraga33)
+- [Youngseok Kim](https://github.com/yskim1230)
 - [jamin14](https://github.com/jamin14)
 - [Rehan Chalana](https://github.com/RehanChalana)
 - [Prajwal_S](https://github.com/Furrylath)
