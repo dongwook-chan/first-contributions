@@ -4882,6 +4882,7 @@ Gauresh Rathi
 - [ziyu] (https://github.com/zhiyuS)
 - [Crayoncharle] (https://github.com/Crayoncharle)
 - [lbk01](https:/github.com/lbk01)
+- [daseul](https://github.com/daseulll/first-contributions.git)
 - [zhangyida](https://github.com/zhangyida-lab)
 - [Rashidamosi](https://github.com/Rashidamosi)
 - [KobiEau](https://github.com/KobiEau)
